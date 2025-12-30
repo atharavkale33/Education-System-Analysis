@@ -1,0 +1,1001 @@
+Student_ID,Name,Gender,Age,Course,Year,Attendance_Percentage,Study_Hours_Per_Week,Internal_Marks,Final_Exam_Marks,Result
+1,Akash,Male,25,Data Science,FY,71,12,32,51,Fail
+2,Priya,Female,23,IT,FY,90,13,39,87,Fail
+3,Rohit,Male,19,Computer Science,FY,80,12,40,64,Pass
+4,Sanket,Female,19,IT,SY,68,28,30,39,Pass
+5,Rahul,Female,18,Data Science,Final,93,14,32,59,Fail
+6,Komal,Female,24,Mechanical,SY,92,18,41,66,Pass
+7,Sonal,Male,19,Electrical,Final,100,30,37,89,Fail
+8,Rohit,Male,24,Electrical,TY,97,5,47,93,Pass
+9,Prajakta,Male,23,Civil,TY,80,24,42,61,Pass
+10,Sonal,Male,24,Electrical,FY,93,31,43,68,Pass
+11,Riya,Female,17,Data Science,Final,68,40,30,74,Pass
+12,Nikhil,Male,19,Computer Science,FY,82,20,45,80,Pass
+13,Sanket,Male,17,Data Science,FY,71,32,42,94,Pass
+14,Riya,Female,18,IT,Final,88,8,36,74,Pass
+15,Neha,Male,19,Computer Science,FY,77,32,34,94,Pass
+16,Pooja,Male,23,Mechanical,Final,76,31,39,95,Pass
+17,Tejas,Female,24,IT,FY,87,31,49,62,Pass
+18,Rahul,Male,18,Mechanical,SY,85,9,44,41,Fail
+19,Komal,Female,20,IT,Final,85,24,39,62,Pass
+20,Tejas,Male,24,Electrical,Final,73,24,43,83,Pass
+21,Riya,Male,20,IT,TY,66,37,35,55,Pass
+22,Sneha,Male,21,Civil,Final,65,25,45,90,Fail
+23,Shubham,Female,25,Computer Science,FY,78,13,34,78,Fail
+24,Anjali,Male,17,Data Science,Final,65,13,50,48,Fail
+25,Rohit,Female,23,Electrical,FY,79,11,47,74,Pass
+26,Prajakta,Female,18,Computer Science,TY,76,5,43,78,Pass
+27,Nikhil,Male,18,Mechanical,TY,63,37,47,37,Pass
+28,Mayur,Male,25,Mechanical,SY,100,13,42,61,Fail
+29,Amit,Male,17,Civil,Final,96,36,43,54,Fail
+30,Shubham,Female,21,Civil,Final,74,17,32,74,Pass
+31,Riya,Female,24,Computer Science,SY,96,5,46,42,Fail
+32,Rohit,Male,19,Mechanical,TY,80,33,38,35,Fail
+33,Komal,Male,25,Electrical,SY,99,31,30,51,Fail
+34,Pooja,Male,23,Civil,SY,84,7,44,35,Fail
+35,Kunal,Male,19,Mechanical,TY,64,36,32,95,Fail
+36,Vishal,Male,25,IT,SY,69,38,49,83,Pass
+37,Priya,Male,17,Computer Science,TY,81,18,41,77,Fail
+38,Komal,Male,20,Data Science,FY,80,26,45,36,Fail
+39,Priya,Male,19,Mechanical,TY,85,15,49,70,Pass
+40,Sanket,Female,17,Data Science,FY,94,5,31,81,Fail
+41,Rahul,Male,19,IT,TY,88,23,45,100,Fail
+42,Vishal,Female,23,Computer Science,SY,94,32,35,68,Fail
+43,Prajakta,Female,24,Computer Science,Final,76,36,46,92,Pass
+44,Mayur,Male,19,Mechanical,FY,98,13,39,58,Pass
+45,Komal,Male,20,Computer Science,Final,71,40,38,54,Fail
+46,Kunal,Male,17,Data Science,FY,79,16,41,97,Pass
+47,Anjali,Female,24,IT,SY,89,27,31,99,Pass
+48,Anjali,Female,18,Mechanical,TY,89,12,48,59,Pass
+49,Anjali,Male,22,Mechanical,Final,85,25,34,50,Fail
+50,Komal,Female,18,Civil,Final,82,27,45,40,Pass
+51,Prajakta,Female,19,Computer Science,Final,70,33,48,70,Fail
+52,Tejas,Male,23,Computer Science,TY,60,29,39,60,Pass
+53,Priya,Female,22,IT,SY,92,32,41,63,Pass
+54,Priya,Female,18,Electrical,TY,82,37,32,50,Fail
+55,Komal,Female,22,Data Science,TY,85,30,47,35,Fail
+56,Kunal,Female,25,Electrical,SY,62,33,37,78,Fail
+57,Rahul,Male,18,Computer Science,SY,65,31,40,70,Fail
+58,Prajakta,Female,22,Civil,SY,67,31,30,56,Pass
+59,Riya,Female,23,Computer Science,SY,80,36,36,61,Fail
+60,Nikhil,Male,19,Civil,Final,71,37,32,64,Pass
+61,Komal,Male,22,Civil,Final,86,25,49,43,Fail
+62,Kunal,Male,19,Electrical,Final,62,8,44,55,Pass
+63,Priya,Female,21,IT,FY,90,27,43,53,Pass
+64,Shubham,Male,19,Data Science,Final,63,25,30,46,Fail
+65,Neha,Male,20,Mechanical,Final,74,8,41,41,Pass
+66,Sonal,Female,20,Civil,SY,81,32,50,97,Pass
+67,Komal,Male,20,Electrical,FY,67,24,45,56,Pass
+68,Anjali,Female,24,Mechanical,SY,66,23,32,56,Fail
+69,Prajakta,Female,17,Civil,FY,95,21,38,51,Fail
+70,Prajakta,Female,19,Civil,FY,70,27,32,83,Pass
+71,Kunal,Female,17,Electrical,Final,93,21,44,38,Pass
+72,Neha,Male,23,IT,Final,78,37,30,54,Fail
+73,Sonal,Male,20,Mechanical,TY,72,7,48,61,Pass
+74,Sneha,Female,23,Computer Science,FY,96,40,36,70,Fail
+75,Anjali,Female,19,Electrical,TY,93,6,30,61,Fail
+76,Mayur,Male,22,Mechanical,FY,76,15,33,72,Pass
+77,Kunal,Male,20,IT,Final,85,37,40,46,Pass
+78,Rohit,Female,18,IT,FY,76,20,47,96,Pass
+79,Komal,Male,18,IT,SY,97,33,47,74,Pass
+80,Neha,Female,19,Mechanical,TY,69,33,43,59,Fail
+81,Neha,Female,23,Electrical,FY,64,13,44,71,Fail
+82,Neha,Female,23,Electrical,TY,74,16,39,52,Fail
+83,Rahul,Male,17,Computer Science,SY,60,8,41,89,Pass
+84,Sanket,Male,21,Mechanical,SY,93,18,35,61,Fail
+85,Komal,Female,22,Data Science,Final,69,10,49,73,Pass
+86,Sonal,Female,25,Electrical,FY,86,10,37,74,Pass
+87,Vishal,Male,17,IT,SY,72,5,33,44,Pass
+88,Sneha,Female,17,IT,FY,71,11,32,79,Pass
+89,Shubham,Male,23,Computer Science,FY,76,6,41,84,Fail
+90,Kunal,Male,18,IT,TY,83,25,47,59,Fail
+91,Rahul,Female,20,Civil,TY,61,17,40,68,Fail
+92,Kunal,Male,24,IT,Final,73,6,41,55,Pass
+93,Rahul,Female,18,Computer Science,FY,69,16,45,58,Pass
+94,Priya,Female,24,Data Science,Final,75,11,41,92,Pass
+95,Rohit,Female,21,Computer Science,FY,71,10,32,98,Fail
+96,Pooja,Male,21,Mechanical,SY,89,30,30,44,Fail
+97,Prajakta,Female,24,IT,SY,75,36,40,65,Fail
+98,Sneha,Male,22,Electrical,Final,77,14,43,93,Fail
+99,Akash,Female,25,IT,FY,95,38,50,37,Fail
+100,Komal,Male,25,Electrical,TY,69,19,31,77,Fail
+101,Nikhil,Male,20,Civil,TY,75,19,46,52,Fail
+102,Amit,Female,21,Data Science,SY,71,27,31,58,Fail
+103,Anjali,Female,25,Electrical,Final,97,31,34,82,Fail
+104,Sanket,Female,25,Data Science,TY,87,9,30,69,Pass
+105,Prajakta,Male,25,Electrical,TY,100,29,42,44,Fail
+106,Mayur,Male,22,Data Science,Final,75,37,39,40,Pass
+107,Rahul,Female,19,Data Science,TY,92,31,39,39,Pass
+108,Priya,Male,23,Electrical,Final,79,21,44,65,Fail
+109,Pooja,Female,19,Computer Science,SY,100,40,46,100,Fail
+110,Priya,Female,20,Electrical,TY,98,36,40,47,Pass
+111,Rahul,Female,23,Data Science,Final,79,20,47,51,Fail
+112,Tejas,Female,18,Electrical,Final,73,17,38,82,Pass
+113,Neha,Female,25,Computer Science,TY,74,34,32,58,Fail
+114,Sneha,Female,25,Computer Science,Final,60,40,47,44,Fail
+115,Tejas,Female,25,Electrical,FY,69,40,33,98,Pass
+116,Akash,Female,25,Electrical,Final,100,8,37,56,Pass
+117,Shubham,Female,22,Data Science,Final,63,39,34,43,Fail
+118,Sanket,Male,19,Mechanical,TY,97,16,46,82,Pass
+119,Riya,Female,18,Mechanical,SY,91,27,41,49,Pass
+120,Sanket,Male,19,IT,FY,92,9,40,44,Pass
+121,Neha,Female,19,Civil,TY,100,15,38,35,Fail
+122,Rohit,Female,23,Civil,TY,68,27,46,45,Pass
+123,Rohit,Female,18,IT,FY,75,25,36,49,Fail
+124,Vishal,Female,19,IT,SY,73,16,49,37,Fail
+125,Vishal,Male,23,Mechanical,TY,83,32,43,95,Pass
+126,Riya,Female,18,Data Science,Final,70,25,50,84,Pass
+127,Riya,Female,19,Electrical,SY,76,18,44,88,Fail
+128,Nikhil,Male,20,IT,TY,61,25,39,96,Pass
+129,Nikhil,Female,18,Civil,TY,93,20,39,60,Pass
+130,Neha,Female,24,Civil,SY,67,9,38,84,Pass
+131,Vishal,Male,18,Electrical,Final,79,10,47,35,Pass
+132,Shubham,Female,19,Data Science,TY,77,40,49,86,Pass
+133,Priya,Male,17,Data Science,FY,69,37,43,66,Pass
+134,Tejas,Female,24,Electrical,Final,80,8,40,59,Pass
+135,Priya,Female,19,Mechanical,TY,60,14,44,53,Fail
+136,Neha,Female,24,Mechanical,FY,84,21,34,99,Fail
+137,Kunal,Female,24,Civil,Final,66,22,46,62,Pass
+138,Komal,Male,20,Mechanical,FY,85,14,30,92,Pass
+139,Neha,Female,25,Electrical,FY,78,26,50,51,Fail
+140,Vishal,Female,17,IT,SY,84,22,36,95,Pass
+141,Shubham,Female,23,IT,FY,92,15,33,99,Fail
+142,Mayur,Female,18,Mechanical,Final,62,39,49,38,Pass
+143,Prajakta,Male,20,Electrical,FY,85,6,45,78,Pass
+144,Priya,Female,18,Computer Science,Final,61,24,42,89,Pass
+145,Rahul,Female,18,Computer Science,Final,83,15,44,70,Fail
+146,Komal,Female,20,IT,Final,73,23,42,43,Fail
+147,Shubham,Female,18,Electrical,TY,87,26,32,53,Fail
+148,Mayur,Female,21,Data Science,SY,64,37,44,41,Fail
+149,Priya,Female,24,Electrical,TY,76,37,31,43,Fail
+150,Tejas,Female,18,Civil,Final,65,24,30,53,Pass
+151,Akash,Male,23,Civil,TY,86,7,40,39,Fail
+152,Anjali,Male,19,Computer Science,TY,78,28,42,45,Pass
+153,Komal,Female,19,IT,TY,83,17,38,37,Pass
+154,Riya,Female,21,IT,FY,70,26,41,60,Pass
+155,Pooja,Female,18,Computer Science,Final,99,8,38,64,Pass
+156,Priya,Male,19,Civil,SY,81,26,49,59,Pass
+157,Riya,Male,18,Mechanical,Final,63,6,31,42,Fail
+158,Nikhil,Male,19,Data Science,SY,60,29,41,35,Fail
+159,Sonal,Female,21,Civil,TY,72,15,46,64,Fail
+160,Anjali,Male,18,Computer Science,Final,98,8,30,59,Pass
+161,Rohit,Male,23,Civil,SY,76,21,36,62,Fail
+162,Akash,Female,23,IT,Final,96,18,43,38,Fail
+163,Riya,Male,18,Mechanical,SY,86,17,49,68,Pass
+164,Anjali,Male,20,IT,SY,65,6,36,86,Pass
+165,Komal,Female,25,Electrical,TY,82,15,43,100,Fail
+166,Kunal,Female,24,IT,SY,61,15,48,96,Fail
+167,Akash,Female,25,Computer Science,SY,86,30,46,89,Pass
+168,Rahul,Female,20,IT,FY,83,5,41,98,Pass
+169,Pooja,Male,17,IT,Final,97,8,31,82,Pass
+170,Neha,Female,17,Mechanical,SY,66,12,35,69,Pass
+171,Komal,Female,22,Electrical,TY,98,9,50,63,Fail
+172,Vishal,Male,19,Computer Science,FY,97,19,35,75,Fail
+173,Kunal,Female,21,Computer Science,SY,84,15,43,67,Pass
+174,Neha,Female,20,Data Science,SY,96,40,32,65,Fail
+175,Anjali,Female,20,Mechanical,Final,93,19,49,85,Fail
+176,Priya,Male,23,Electrical,Final,67,40,43,38,Fail
+177,Amit,Male,18,Civil,Final,99,21,40,37,Pass
+178,Pooja,Female,24,Mechanical,Final,83,19,42,36,Pass
+179,Shubham,Female,22,Mechanical,Final,68,6,40,60,Pass
+180,Shubham,Female,19,Data Science,TY,64,26,40,56,Pass
+181,Prajakta,Female,24,Mechanical,FY,87,8,44,60,Fail
+182,Kunal,Female,18,IT,SY,81,7,49,61,Pass
+183,Akash,Male,19,Data Science,TY,74,29,32,48,Fail
+184,Shubham,Female,20,IT,Final,76,18,31,100,Pass
+185,Vishal,Female,24,Mechanical,Final,78,8,34,44,Fail
+186,Sanket,Male,24,IT,FY,65,38,45,53,Pass
+187,Tejas,Female,21,Civil,Final,88,14,35,77,Fail
+188,Riya,Male,24,Computer Science,SY,60,39,37,75,Pass
+189,Amit,Female,25,Data Science,TY,68,28,40,59,Pass
+190,Shubham,Female,23,Data Science,SY,64,39,49,100,Fail
+191,Mayur,Female,17,IT,Final,96,5,40,53,Fail
+192,Rahul,Female,23,IT,FY,97,36,46,89,Fail
+193,Vishal,Male,22,Civil,FY,60,5,45,66,Fail
+194,Rohit,Male,25,Electrical,TY,92,18,50,94,Fail
+195,Sonal,Female,21,Civil,FY,99,22,41,76,Fail
+196,Riya,Female,21,Civil,FY,92,25,39,37,Pass
+197,Sneha,Male,18,Data Science,Final,81,10,30,67,Pass
+198,Tejas,Male,23,IT,TY,96,40,49,79,Pass
+199,Riya,Female,18,Computer Science,Final,96,31,43,52,Fail
+200,Riya,Female,24,IT,SY,60,32,31,60,Fail
+201,Riya,Male,21,IT,Final,67,38,45,65,Pass
+202,Sanket,Male,19,Data Science,TY,99,36,31,50,Fail
+203,Neha,Male,23,Civil,TY,77,19,30,57,Fail
+204,Kunal,Male,19,Electrical,TY,90,28,49,51,Fail
+205,Neha,Male,24,IT,SY,90,20,38,86,Pass
+206,Akash,Female,24,Data Science,TY,70,34,35,37,Fail
+207,Sneha,Female,20,IT,FY,97,12,46,64,Fail
+208,Tejas,Male,18,Electrical,TY,65,38,36,40,Fail
+209,Akash,Male,25,Mechanical,Final,63,25,45,61,Fail
+210,Kunal,Male,22,Electrical,TY,68,35,41,80,Fail
+211,Pooja,Female,23,Computer Science,FY,75,28,30,47,Pass
+212,Sneha,Male,19,Civil,TY,61,15,50,47,Fail
+213,Sneha,Female,17,Data Science,SY,66,5,45,66,Fail
+214,Rahul,Female,19,Electrical,SY,93,36,35,76,Fail
+215,Priya,Male,21,Civil,FY,75,9,50,97,Fail
+216,Neha,Female,21,Mechanical,TY,64,10,30,76,Fail
+217,Vishal,Male,25,Mechanical,TY,77,18,31,44,Fail
+218,Prajakta,Female,21,Computer Science,FY,67,33,47,82,Pass
+219,Nikhil,Male,23,Electrical,SY,95,31,31,97,Pass
+220,Riya,Female,19,Mechanical,Final,82,38,35,55,Fail
+221,Rahul,Male,17,Computer Science,TY,78,17,32,99,Pass
+222,Mayur,Female,19,Data Science,TY,64,12,49,65,Fail
+223,Priya,Male,22,Computer Science,Final,73,26,35,67,Pass
+224,Sneha,Male,21,Computer Science,Final,96,10,33,41,Fail
+225,Prajakta,Male,23,Data Science,SY,68,17,34,97,Pass
+226,Vishal,Female,20,Civil,TY,70,38,45,74,Pass
+227,Amit,Male,20,Data Science,TY,90,35,32,88,Fail
+228,Pooja,Female,22,Mechanical,TY,92,39,42,42,Pass
+229,Nikhil,Female,17,IT,TY,98,32,49,57,Pass
+230,Sanket,Male,18,Civil,SY,98,15,33,58,Pass
+231,Tejas,Female,21,Data Science,FY,63,5,36,38,Pass
+232,Priya,Male,19,Mechanical,SY,77,8,39,62,Pass
+233,Rahul,Male,20,Computer Science,Final,92,39,49,43,Fail
+234,Amit,Female,25,Electrical,SY,68,5,37,91,Fail
+235,Sneha,Male,19,IT,Final,78,40,42,60,Pass
+236,Sonal,Male,17,Data Science,SY,78,36,46,68,Pass
+237,Tejas,Male,23,Mechanical,FY,97,34,47,64,Fail
+238,Amit,Female,24,Civil,FY,78,9,36,52,Fail
+239,Sneha,Female,17,Electrical,FY,75,19,30,80,Fail
+240,Sonal,Male,22,Civil,FY,72,28,35,88,Pass
+241,Shubham,Female,18,Computer Science,Final,80,16,30,42,Fail
+242,Sanket,Female,19,Civil,SY,62,39,47,53,Fail
+243,Shubham,Female,24,Data Science,SY,82,11,39,89,Fail
+244,Kunal,Male,22,Computer Science,SY,78,33,30,73,Fail
+245,Rahul,Male,25,Mechanical,SY,94,10,50,98,Fail
+246,Neha,Male,25,Computer Science,FY,93,32,31,90,Pass
+247,Sonal,Male,21,IT,FY,65,9,49,68,Pass
+248,Sanket,Male,18,Civil,SY,78,24,47,73,Pass
+249,Pooja,Male,20,Data Science,SY,99,25,34,87,Fail
+250,Rahul,Female,22,Mechanical,TY,67,10,48,94,Fail
+251,Tejas,Male,24,Computer Science,Final,84,22,32,90,Fail
+252,Shubham,Female,19,Data Science,FY,67,10,49,79,Fail
+253,Amit,Female,22,Data Science,TY,64,16,35,48,Fail
+254,Nikhil,Male,20,Civil,TY,80,19,45,82,Fail
+255,Kunal,Male,25,IT,FY,97,18,45,89,Fail
+256,Anjali,Male,17,IT,SY,79,40,39,90,Pass
+257,Sneha,Male,24,Mechanical,FY,93,31,36,56,Pass
+258,Shubham,Female,23,Computer Science,Final,64,31,49,52,Pass
+259,Akash,Female,18,Electrical,Final,86,23,32,84,Fail
+260,Komal,Female,23,Civil,TY,93,24,44,57,Pass
+261,Komal,Female,22,IT,SY,71,18,37,45,Pass
+262,Neha,Male,24,IT,TY,72,16,43,84,Pass
+263,Komal,Male,17,Civil,Final,63,30,31,50,Pass
+264,Anjali,Male,25,Computer Science,SY,90,15,35,93,Fail
+265,Sonal,Female,24,Electrical,SY,78,25,43,41,Pass
+266,Sanket,Female,24,Computer Science,TY,82,34,50,91,Fail
+267,Sanket,Female,20,Computer Science,TY,85,5,36,54,Fail
+268,Priya,Male,25,Data Science,SY,74,40,47,82,Pass
+269,Tejas,Female,21,Data Science,TY,68,14,31,54,Pass
+270,Nikhil,Male,22,Civil,Final,82,19,43,85,Fail
+271,Kunal,Male,18,IT,FY,100,22,38,81,Fail
+272,Vishal,Female,22,Mechanical,Final,60,9,49,79,Fail
+273,Kunal,Male,18,Electrical,Final,70,14,50,35,Pass
+274,Tejas,Male,22,Civil,TY,62,9,31,56,Fail
+275,Kunal,Male,17,Data Science,FY,100,6,34,57,Fail
+276,Akash,Female,17,Civil,TY,82,16,41,68,Fail
+277,Neha,Male,23,Civil,FY,94,5,31,100,Pass
+278,Sanket,Male,18,Mechanical,Final,90,27,38,86,Fail
+279,Kunal,Female,19,Electrical,Final,76,14,39,97,Fail
+280,Nikhil,Female,23,Mechanical,Final,68,14,49,80,Pass
+281,Pooja,Male,17,IT,SY,81,40,46,35,Fail
+282,Prajakta,Male,25,Data Science,SY,60,5,50,36,Fail
+283,Kunal,Female,21,Computer Science,SY,100,35,33,83,Fail
+284,Pooja,Male,17,IT,TY,76,5,46,75,Fail
+285,Priya,Male,21,Civil,SY,98,5,33,62,Fail
+286,Pooja,Male,20,Data Science,TY,100,31,38,81,Pass
+287,Sonal,Male,17,IT,SY,82,20,30,92,Fail
+288,Riya,Male,22,Civil,Final,61,16,39,83,Fail
+289,Rohit,Male,23,Civil,Final,75,33,50,98,Fail
+290,Neha,Male,25,Civil,TY,83,24,42,96,Fail
+291,Priya,Male,25,Mechanical,TY,76,5,34,60,Fail
+292,Sanket,Female,24,Electrical,FY,62,23,46,91,Fail
+293,Mayur,Male,25,Computer Science,Final,84,40,41,74,Pass
+294,Sneha,Male,19,Mechanical,TY,76,22,42,76,Pass
+295,Kunal,Female,20,Civil,Final,98,12,40,39,Fail
+296,Riya,Female,20,Data Science,Final,99,18,43,37,Fail
+297,Nikhil,Female,17,Computer Science,Final,78,26,39,61,Fail
+298,Sonal,Female,23,Mechanical,Final,65,6,50,92,Fail
+299,Tejas,Male,19,Electrical,TY,85,34,30,82,Fail
+300,Rahul,Female,23,Civil,Final,79,25,43,62,Fail
+301,Kunal,Male,24,Mechanical,Final,61,23,48,74,Pass
+302,Sanket,Male,24,Civil,FY,75,26,49,63,Pass
+303,Mayur,Female,20,Mechanical,FY,65,7,44,76,Fail
+304,Pooja,Male,20,Electrical,FY,68,7,31,73,Fail
+305,Sneha,Male,21,Electrical,FY,94,10,32,43,Fail
+306,Mayur,Female,20,Electrical,FY,64,35,43,80,Pass
+307,Amit,Female,21,IT,Final,64,18,32,74,Pass
+308,Neha,Female,22,Data Science,TY,87,35,40,59,Pass
+309,Rohit,Female,22,Data Science,SY,98,24,50,67,Pass
+310,Priya,Female,22,IT,TY,62,15,37,74,Pass
+311,Sanket,Female,21,Civil,TY,98,22,48,77,Pass
+312,Prajakta,Female,25,Data Science,Final,80,39,42,71,Fail
+313,Sneha,Female,24,Mechanical,Final,93,27,49,94,Pass
+314,Prajakta,Male,25,Data Science,FY,65,30,45,44,Fail
+315,Prajakta,Female,19,Computer Science,SY,96,14,49,94,Fail
+316,Rahul,Female,22,Mechanical,TY,63,9,38,69,Pass
+317,Amit,Female,21,Data Science,TY,61,8,44,46,Pass
+318,Akash,Male,21,IT,SY,61,14,48,65,Fail
+319,Komal,Female,20,Civil,FY,82,35,35,78,Pass
+320,Tejas,Male,23,Data Science,SY,68,11,31,39,Fail
+321,Sneha,Female,24,Electrical,Final,82,33,41,53,Pass
+322,Sneha,Female,20,Electrical,FY,88,5,37,78,Pass
+323,Tejas,Male,23,Mechanical,FY,67,26,49,97,Fail
+324,Shubham,Male,25,Data Science,TY,73,12,49,44,Pass
+325,Tejas,Female,23,Electrical,TY,90,33,43,88,Pass
+326,Akash,Female,23,Data Science,SY,72,9,43,53,Pass
+327,Nikhil,Male,22,Electrical,Final,86,13,30,62,Pass
+328,Rohit,Male,21,Electrical,SY,66,16,34,92,Pass
+329,Vishal,Female,18,Data Science,TY,96,15,45,72,Pass
+330,Neha,Male,22,Computer Science,FY,95,5,32,85,Pass
+331,Komal,Male,22,Civil,TY,78,18,34,56,Pass
+332,Neha,Female,21,Electrical,TY,93,27,31,74,Fail
+333,Sonal,Male,25,IT,Final,80,28,46,41,Pass
+334,Mayur,Male,19,IT,FY,61,22,46,67,Fail
+335,Tejas,Male,23,IT,FY,73,38,41,52,Fail
+336,Sneha,Male,25,Civil,TY,99,29,42,38,Pass
+337,Rahul,Male,17,Computer Science,TY,72,20,30,66,Pass
+338,Rohit,Female,20,IT,FY,68,15,34,62,Fail
+339,Mayur,Male,20,IT,FY,66,38,48,99,Pass
+340,Akash,Male,22,Electrical,TY,99,23,42,35,Pass
+341,Amit,Male,23,Computer Science,FY,97,5,33,63,Fail
+342,Vishal,Female,25,Mechanical,SY,75,6,47,46,Fail
+343,Riya,Male,20,Computer Science,FY,100,27,33,82,Pass
+344,Vishal,Female,18,Computer Science,TY,72,5,47,74,Fail
+345,Anjali,Female,21,Computer Science,Final,79,19,43,58,Fail
+346,Sonal,Female,18,Civil,Final,69,29,36,68,Pass
+347,Sneha,Female,25,Mechanical,Final,69,5,40,50,Fail
+348,Pooja,Female,21,Mechanical,SY,87,24,40,70,Fail
+349,Amit,Male,17,Mechanical,Final,84,10,45,61,Pass
+350,Akash,Female,24,Computer Science,TY,97,10,41,64,Pass
+351,Rohit,Female,25,IT,Final,73,6,38,97,Fail
+352,Shubham,Male,22,Mechanical,Final,80,23,30,100,Pass
+353,Shubham,Male,23,Computer Science,TY,90,6,37,62,Fail
+354,Anjali,Female,22,IT,FY,83,28,47,52,Pass
+355,Prajakta,Male,23,Computer Science,FY,100,32,30,53,Fail
+356,Priya,Male,17,Electrical,Final,62,20,32,94,Pass
+357,Anjali,Female,25,Civil,TY,63,36,47,68,Pass
+358,Sanket,Male,24,Civil,SY,65,35,48,85,Pass
+359,Sneha,Female,22,Mechanical,SY,82,22,43,81,Pass
+360,Mayur,Female,22,Electrical,Final,74,19,33,49,Fail
+361,Kunal,Female,23,IT,TY,61,12,43,77,Fail
+362,Mayur,Female,21,Mechanical,TY,93,12,46,66,Pass
+363,Shubham,Female,17,Electrical,SY,72,28,44,65,Pass
+364,Amit,Female,24,Data Science,TY,98,12,45,46,Fail
+365,Anjali,Male,24,Mechanical,SY,69,38,32,37,Fail
+366,Tejas,Female,17,Electrical,Final,98,39,37,60,Fail
+367,Rohit,Female,23,Mechanical,FY,83,12,32,85,Fail
+368,Pooja,Female,24,Electrical,SY,100,29,47,72,Pass
+369,Kunal,Female,22,Computer Science,TY,64,31,47,64,Fail
+370,Prajakta,Female,21,Mechanical,Final,71,29,31,70,Fail
+371,Sanket,Male,23,Civil,TY,96,30,45,72,Fail
+372,Rohit,Male,25,Civil,TY,100,14,43,39,Pass
+373,Nikhil,Male,21,Electrical,SY,81,23,41,40,Pass
+374,Sonal,Male,22,Data Science,SY,71,32,39,76,Fail
+375,Priya,Female,18,Mechanical,FY,96,32,48,87,Pass
+376,Tejas,Female,23,Computer Science,TY,75,33,31,41,Pass
+377,Akash,Female,24,Mechanical,FY,79,29,44,92,Fail
+378,Priya,Female,22,Electrical,FY,97,10,33,36,Fail
+379,Anjali,Female,21,Mechanical,TY,88,24,41,87,Fail
+380,Akash,Male,21,Computer Science,FY,73,35,43,74,Pass
+381,Kunal,Female,20,Civil,SY,68,35,35,79,Fail
+382,Komal,Male,22,Civil,SY,97,6,31,45,Pass
+383,Sonal,Female,24,Mechanical,Final,82,20,38,66,Pass
+384,Anjali,Female,23,IT,FY,66,34,44,62,Pass
+385,Nikhil,Female,23,IT,TY,94,6,39,99,Fail
+386,Kunal,Male,20,IT,SY,63,39,48,83,Pass
+387,Sonal,Female,25,IT,TY,65,21,36,96,Pass
+388,Rohit,Male,18,Civil,Final,70,30,38,73,Pass
+389,Rahul,Female,21,Data Science,SY,66,17,42,88,Fail
+390,Pooja,Female,23,Mechanical,Final,60,6,50,85,Pass
+391,Komal,Male,25,Data Science,Final,86,20,41,66,Pass
+392,Tejas,Female,23,IT,FY,89,5,46,36,Pass
+393,Anjali,Female,20,Data Science,SY,100,13,30,61,Pass
+394,Pooja,Male,22,IT,SY,70,27,50,88,Fail
+395,Anjali,Female,25,Computer Science,TY,60,32,42,47,Fail
+396,Tejas,Male,24,Mechanical,Final,82,15,48,41,Pass
+397,Prajakta,Male,20,Mechanical,Final,63,7,38,97,Fail
+398,Kunal,Female,24,Civil,FY,70,28,40,76,Pass
+399,Kunal,Male,23,IT,FY,88,15,34,91,Fail
+400,Riya,Female,17,Mechanical,FY,100,17,38,100,Fail
+401,Vishal,Female,22,IT,Final,92,13,30,65,Pass
+402,Rohit,Male,19,Civil,FY,84,5,30,56,Pass
+403,Komal,Male,17,Computer Science,Final,67,19,41,64,Fail
+404,Rahul,Male,17,IT,FY,100,12,48,99,Pass
+405,Prajakta,Male,19,Civil,TY,100,22,30,61,Pass
+406,Akash,Male,17,Civil,Final,60,31,45,99,Fail
+407,Tejas,Male,18,Civil,Final,84,8,49,59,Pass
+408,Akash,Female,19,Electrical,SY,68,11,47,83,Pass
+409,Kunal,Female,22,Civil,SY,67,36,44,68,Pass
+410,Sneha,Male,25,Computer Science,Final,70,8,48,35,Pass
+411,Mayur,Female,19,Computer Science,FY,100,21,37,50,Pass
+412,Sonal,Male,25,Electrical,TY,66,15,36,55,Fail
+413,Kunal,Female,25,Computer Science,SY,90,28,48,92,Fail
+414,Rohit,Female,22,IT,Final,74,16,38,68,Pass
+415,Neha,Male,17,Electrical,TY,95,21,36,64,Fail
+416,Kunal,Female,19,Data Science,SY,84,11,42,86,Fail
+417,Riya,Male,22,Mechanical,TY,77,14,50,62,Pass
+418,Sanket,Female,18,Data Science,FY,80,30,31,60,Fail
+419,Prajakta,Male,18,Mechanical,SY,62,30,34,46,Pass
+420,Sanket,Female,17,Electrical,TY,73,24,30,36,Fail
+421,Prajakta,Male,19,IT,Final,73,24,39,41,Fail
+422,Amit,Female,23,Electrical,TY,69,31,49,40,Fail
+423,Amit,Male,25,IT,SY,61,26,45,63,Fail
+424,Sanket,Male,22,Data Science,TY,85,19,38,62,Fail
+425,Tejas,Female,25,Data Science,Final,82,39,33,78,Fail
+426,Sonal,Female,20,Electrical,SY,61,14,30,85,Pass
+427,Kunal,Female,23,Computer Science,SY,60,38,38,56,Pass
+428,Neha,Female,18,Data Science,SY,89,29,31,76,Fail
+429,Pooja,Male,23,Civil,TY,67,11,44,98,Pass
+430,Anjali,Female,24,Civil,TY,87,9,38,97,Pass
+431,Komal,Male,24,Electrical,Final,75,37,45,99,Fail
+432,Komal,Male,21,Data Science,TY,71,18,43,50,Pass
+433,Prajakta,Male,24,Electrical,SY,70,25,50,93,Fail
+434,Anjali,Female,19,Data Science,FY,80,6,34,78,Pass
+435,Komal,Female,24,IT,SY,81,39,48,88,Pass
+436,Mayur,Male,24,Data Science,TY,82,33,41,57,Pass
+437,Riya,Male,22,Data Science,TY,88,21,50,94,Pass
+438,Komal,Female,24,Mechanical,SY,66,24,30,93,Fail
+439,Rahul,Female,23,Computer Science,TY,62,29,41,65,Fail
+440,Riya,Female,20,Civil,SY,87,17,40,77,Pass
+441,Tejas,Female,24,Civil,SY,97,31,36,56,Pass
+442,Priya,Male,25,Data Science,Final,82,11,46,54,Pass
+443,Sonal,Female,23,IT,FY,97,33,35,56,Fail
+444,Pooja,Female,23,Computer Science,TY,87,35,37,65,Pass
+445,Shubham,Female,25,IT,SY,61,36,47,40,Fail
+446,Mayur,Female,19,Electrical,Final,69,40,43,80,Pass
+447,Vishal,Male,18,Mechanical,Final,62,8,46,76,Pass
+448,Komal,Female,17,Mechanical,SY,81,34,32,59,Fail
+449,Prajakta,Male,22,IT,Final,60,35,50,43,Pass
+450,Mayur,Female,18,IT,Final,97,9,43,92,Fail
+451,Amit,Female,24,Electrical,SY,79,26,32,84,Pass
+452,Sonal,Female,17,Civil,FY,70,13,37,74,Fail
+453,Prajakta,Male,21,IT,SY,95,13,39,35,Fail
+454,Pooja,Male,24,Computer Science,SY,64,35,44,49,Pass
+455,Sonal,Male,25,Civil,FY,82,22,30,48,Pass
+456,Akash,Male,17,Mechanical,TY,86,37,44,63,Fail
+457,Pooja,Female,21,Data Science,FY,73,36,42,64,Pass
+458,Anjali,Female,24,IT,SY,85,30,49,42,Pass
+459,Riya,Male,24,Data Science,SY,88,22,34,80,Pass
+460,Akash,Male,25,Computer Science,Final,66,25,34,49,Fail
+461,Amit,Male,23,Data Science,TY,70,32,46,92,Pass
+462,Akash,Female,20,IT,SY,92,27,49,68,Fail
+463,Akash,Female,17,IT,FY,81,21,46,89,Fail
+464,Tejas,Male,17,Electrical,FY,86,15,37,37,Pass
+465,Akash,Male,23,Civil,SY,92,21,42,40,Pass
+466,Sanket,Female,25,Computer Science,TY,85,28,43,80,Fail
+467,Vishal,Female,22,Computer Science,FY,98,11,32,72,Pass
+468,Prajakta,Female,18,Mechanical,Final,91,6,47,51,Fail
+469,Shubham,Male,18,Computer Science,Final,68,19,48,37,Pass
+470,Sanket,Female,17,Mechanical,Final,96,16,40,67,Fail
+471,Vishal,Female,18,Mechanical,TY,93,32,34,75,Fail
+472,Nikhil,Male,22,Electrical,FY,96,35,46,94,Fail
+473,Komal,Female,25,Computer Science,FY,62,30,33,91,Pass
+474,Tejas,Male,25,Mechanical,TY,89,29,40,70,Fail
+475,Riya,Male,23,Data Science,TY,84,25,30,80,Fail
+476,Akash,Female,22,IT,Final,90,38,33,64,Fail
+477,Sonal,Female,23,Computer Science,Final,63,13,38,95,Pass
+478,Komal,Female,23,Computer Science,TY,63,18,45,96,Pass
+479,Amit,Female,20,Data Science,SY,86,26,46,94,Pass
+480,Shubham,Male,20,Data Science,Final,61,19,32,91,Fail
+481,Neha,Female,24,Computer Science,SY,79,37,31,96,Pass
+482,Pooja,Male,21,Data Science,SY,71,29,34,48,Fail
+483,Mayur,Female,24,Electrical,SY,72,17,30,49,Fail
+484,Vishal,Female,25,IT,Final,74,23,46,61,Fail
+485,Priya,Female,20,Mechanical,Final,95,14,48,59,Pass
+486,Vishal,Male,17,IT,Final,69,19,39,39,Fail
+487,Rohit,Male,21,Computer Science,FY,81,22,30,98,Fail
+488,Neha,Female,17,Computer Science,Final,80,16,35,43,Pass
+489,Rahul,Male,19,Computer Science,TY,99,31,40,90,Pass
+490,Kunal,Male,19,Computer Science,Final,97,25,41,66,Pass
+491,Amit,Male,19,Mechanical,FY,78,14,37,51,Fail
+492,Tejas,Female,19,Civil,TY,88,20,42,96,Pass
+493,Mayur,Male,17,Computer Science,SY,69,28,34,75,Fail
+494,Rahul,Male,17,IT,SY,85,30,40,39,Fail
+495,Sneha,Male,25,Electrical,Final,64,40,32,88,Fail
+496,Sanket,Male,25,IT,SY,96,29,33,64,Pass
+497,Anjali,Male,17,Electrical,Final,76,35,47,40,Pass
+498,Sanket,Male,22,Computer Science,SY,98,40,45,70,Pass
+499,Kunal,Male,24,IT,FY,63,40,47,88,Fail
+500,Tejas,Female,17,Data Science,FY,89,38,49,40,Fail
+501,Prajakta,Female,22,IT,SY,88,28,48,85,Pass
+502,Anjali,Female,25,Civil,TY,65,36,47,90,Fail
+503,Sneha,Female,19,IT,FY,79,28,44,83,Pass
+504,Tejas,Female,23,Electrical,SY,74,22,43,40,Pass
+505,Prajakta,Male,19,Mechanical,FY,90,22,30,57,Fail
+506,Neha,Female,25,Data Science,FY,81,12,41,80,Fail
+507,Amit,Male,17,Electrical,FY,83,22,37,89,Pass
+508,Nikhil,Male,21,Civil,SY,89,23,42,44,Fail
+509,Nikhil,Male,17,Data Science,Final,91,30,35,38,Fail
+510,Sonal,Male,23,Data Science,FY,64,39,34,99,Pass
+511,Riya,Male,22,Data Science,Final,84,7,37,43,Fail
+512,Prajakta,Male,19,Data Science,SY,63,35,40,51,Pass
+513,Pooja,Female,21,Computer Science,Final,66,32,31,95,Pass
+514,Amit,Male,18,Mechanical,SY,75,18,50,72,Pass
+515,Mayur,Male,19,IT,SY,88,10,35,76,Pass
+516,Priya,Female,23,Computer Science,FY,66,36,33,42,Fail
+517,Akash,Female,20,Data Science,TY,75,7,47,95,Pass
+518,Sonal,Male,21,Data Science,Final,65,40,43,67,Fail
+519,Sonal,Male,21,Civil,FY,69,12,44,51,Pass
+520,Sanket,Female,24,Mechanical,SY,82,18,49,42,Pass
+521,Neha,Male,21,IT,SY,81,9,46,91,Pass
+522,Tejas,Male,22,Computer Science,SY,74,39,43,90,Fail
+523,Tejas,Male,20,Data Science,FY,69,6,43,98,Fail
+524,Amit,Male,24,IT,TY,60,19,39,99,Fail
+525,Sneha,Female,20,Mechanical,TY,87,11,46,59,Pass
+526,Amit,Male,25,Mechanical,Final,77,37,33,85,Fail
+527,Sanket,Male,21,Electrical,SY,96,18,35,94,Fail
+528,Rohit,Male,21,Mechanical,Final,98,34,44,73,Pass
+529,Priya,Male,19,Data Science,Final,96,32,40,47,Fail
+530,Vishal,Female,17,Computer Science,FY,93,25,31,77,Pass
+531,Komal,Male,25,Mechanical,Final,73,26,37,95,Fail
+532,Kunal,Female,20,Computer Science,TY,70,21,35,99,Fail
+533,Sonal,Male,19,Computer Science,TY,91,31,36,90,Pass
+534,Rohit,Male,19,IT,TY,62,38,43,74,Fail
+535,Tejas,Female,23,Computer Science,FY,64,15,50,99,Fail
+536,Tejas,Female,25,Civil,Final,74,39,48,41,Pass
+537,Kunal,Female,25,Civil,TY,60,24,37,88,Pass
+538,Mayur,Male,17,Civil,SY,84,12,43,70,Pass
+539,Akash,Male,23,Civil,TY,68,34,32,58,Fail
+540,Rohit,Male,17,Civil,TY,60,34,32,63,Fail
+541,Shubham,Male,25,Data Science,FY,80,10,46,72,Pass
+542,Komal,Male,20,IT,TY,86,14,40,50,Pass
+543,Nikhil,Female,23,Mechanical,Final,74,18,35,86,Pass
+544,Sneha,Female,25,Computer Science,TY,67,16,47,68,Pass
+545,Rahul,Male,24,Data Science,Final,98,24,30,98,Pass
+546,Sanket,Male,24,Civil,TY,71,14,47,89,Fail
+547,Sneha,Female,24,Electrical,FY,78,15,50,66,Fail
+548,Neha,Female,18,Electrical,TY,78,33,35,82,Fail
+549,Prajakta,Male,19,Mechanical,SY,75,37,33,99,Pass
+550,Riya,Male,23,Mechanical,Final,97,36,35,88,Pass
+551,Komal,Female,21,Computer Science,Final,61,32,44,99,Pass
+552,Neha,Female,19,Computer Science,SY,60,9,50,57,Pass
+553,Anjali,Female,21,Electrical,FY,99,33,40,83,Fail
+554,Vishal,Male,21,Mechanical,TY,85,33,38,100,Pass
+555,Anjali,Female,22,Computer Science,SY,80,30,34,49,Pass
+556,Vishal,Male,18,Civil,Final,61,38,39,46,Fail
+557,Anjali,Female,18,Civil,TY,65,12,32,57,Fail
+558,Vishal,Male,19,IT,SY,74,37,35,65,Fail
+559,Anjali,Female,17,Electrical,Final,68,21,43,62,Fail
+560,Neha,Male,21,Mechanical,FY,92,7,39,91,Pass
+561,Rahul,Male,24,Mechanical,TY,91,30,30,36,Pass
+562,Tejas,Female,24,Computer Science,SY,67,25,49,52,Fail
+563,Komal,Male,22,Computer Science,FY,94,22,46,96,Pass
+564,Kunal,Male,18,Civil,TY,98,33,49,66,Pass
+565,Akash,Male,17,IT,TY,91,9,35,73,Fail
+566,Sanket,Male,22,Civil,Final,99,36,42,47,Pass
+567,Mayur,Female,19,Data Science,Final,75,6,37,69,Fail
+568,Mayur,Female,20,Computer Science,Final,87,9,34,47,Pass
+569,Tejas,Male,22,Mechanical,SY,60,37,43,58,Pass
+570,Neha,Male,19,IT,FY,75,18,49,63,Fail
+571,Tejas,Male,18,Mechanical,FY,99,13,41,82,Pass
+572,Sneha,Male,18,Mechanical,SY,61,13,37,69,Fail
+573,Tejas,Male,20,Data Science,SY,63,10,30,76,Fail
+574,Prajakta,Male,17,Data Science,Final,72,19,38,84,Fail
+575,Amit,Female,20,Electrical,FY,73,33,32,39,Fail
+576,Amit,Male,23,Electrical,SY,68,21,39,65,Fail
+577,Amit,Female,17,Data Science,TY,71,21,30,75,Fail
+578,Riya,Male,20,Mechanical,Final,60,18,33,87,Pass
+579,Shubham,Male,24,Mechanical,SY,75,22,43,42,Fail
+580,Riya,Male,21,Civil,FY,68,30,39,80,Fail
+581,Sonal,Male,23,Mechanical,Final,77,28,37,73,Fail
+582,Neha,Male,19,Civil,FY,88,10,48,81,Fail
+583,Tejas,Female,18,Data Science,FY,86,21,50,99,Pass
+584,Prajakta,Male,19,Civil,SY,78,38,47,82,Fail
+585,Tejas,Female,23,Data Science,Final,97,18,47,74,Fail
+586,Kunal,Male,20,Data Science,Final,65,26,43,94,Fail
+587,Amit,Female,21,IT,FY,73,21,38,97,Fail
+588,Anjali,Female,18,Computer Science,SY,60,16,49,49,Fail
+589,Komal,Male,22,Civil,SY,79,22,42,98,Pass
+590,Akash,Female,24,Computer Science,FY,62,8,35,89,Fail
+591,Rohit,Female,22,Civil,TY,78,32,43,67,Pass
+592,Vishal,Female,20,IT,TY,93,5,47,77,Fail
+593,Komal,Male,22,Data Science,SY,82,17,49,54,Fail
+594,Rohit,Male,19,Electrical,Final,77,19,36,80,Fail
+595,Rohit,Female,21,Civil,FY,76,20,33,47,Fail
+596,Pooja,Male,19,IT,FY,95,30,46,85,Pass
+597,Riya,Female,25,Civil,SY,89,24,45,96,Fail
+598,Akash,Female,24,Mechanical,Final,65,38,42,86,Pass
+599,Riya,Female,19,IT,FY,60,32,41,98,Fail
+600,Rahul,Female,20,Civil,FY,99,39,42,39,Pass
+601,Prajakta,Female,21,Data Science,Final,64,10,33,37,Pass
+602,Pooja,Female,22,Electrical,SY,61,10,31,70,Pass
+603,Anjali,Female,24,Computer Science,TY,66,25,43,61,Pass
+604,Vishal,Female,24,Data Science,FY,92,30,34,70,Pass
+605,Sanket,Female,17,Data Science,SY,76,24,34,84,Pass
+606,Sneha,Male,17,Civil,FY,63,22,40,68,Pass
+607,Rohit,Female,18,Data Science,TY,69,36,49,35,Pass
+608,Komal,Male,23,Computer Science,SY,76,14,40,80,Pass
+609,Shubham,Male,25,Civil,Final,74,5,41,36,Pass
+610,Neha,Female,23,Data Science,TY,73,10,41,78,Pass
+611,Mayur,Female,19,IT,SY,78,23,44,96,Pass
+612,Riya,Female,24,Data Science,Final,67,6,47,78,Pass
+613,Komal,Male,19,Civil,TY,83,34,50,51,Pass
+614,Tejas,Female,25,Data Science,TY,72,37,32,39,Fail
+615,Rohit,Male,23,Data Science,Final,92,37,37,96,Fail
+616,Akash,Male,20,IT,SY,86,27,31,83,Fail
+617,Anjali,Female,17,Mechanical,Final,64,20,48,42,Pass
+618,Shubham,Male,25,Civil,Final,60,25,40,55,Pass
+619,Prajakta,Female,17,Computer Science,Final,82,9,45,55,Pass
+620,Sneha,Male,21,IT,Final,95,25,37,61,Fail
+621,Sneha,Male,22,Civil,FY,84,24,41,71,Fail
+622,Priya,Female,24,IT,TY,68,20,36,61,Pass
+623,Vishal,Male,21,Data Science,SY,75,36,40,86,Fail
+624,Pooja,Male,17,Computer Science,TY,80,28,37,50,Pass
+625,Akash,Male,22,Electrical,Final,60,19,40,48,Pass
+626,Vishal,Male,20,Electrical,TY,87,18,45,98,Fail
+627,Sonal,Male,17,IT,Final,83,9,36,96,Fail
+628,Pooja,Female,22,Civil,Final,96,7,45,59,Fail
+629,Vishal,Female,24,Data Science,TY,94,37,44,98,Fail
+630,Sonal,Female,24,Civil,Final,99,13,35,59,Pass
+631,Tejas,Male,22,Electrical,TY,60,40,50,40,Fail
+632,Shubham,Female,21,Civil,TY,84,29,46,86,Pass
+633,Riya,Male,24,Mechanical,FY,80,23,46,40,Pass
+634,Sanket,Male,23,Data Science,FY,73,12,37,58,Fail
+635,Nikhil,Male,21,IT,Final,69,39,30,57,Pass
+636,Akash,Female,25,Electrical,TY,100,10,45,45,Pass
+637,Rohit,Female,23,IT,SY,60,26,41,66,Fail
+638,Anjali,Female,20,Data Science,FY,70,36,43,60,Fail
+639,Riya,Male,24,IT,FY,60,15,48,37,Fail
+640,Shubham,Female,21,Electrical,SY,89,25,31,76,Pass
+641,Pooja,Female,22,Electrical,TY,92,24,47,95,Pass
+642,Shubham,Female,21,Electrical,FY,71,17,34,41,Pass
+643,Rahul,Male,25,Civil,TY,72,24,33,47,Pass
+644,Sonal,Male,25,Computer Science,Final,73,14,37,87,Fail
+645,Amit,Male,23,Civil,SY,96,40,46,36,Fail
+646,Shubham,Male,18,Data Science,FY,66,26,41,93,Pass
+647,Prajakta,Female,23,Data Science,TY,81,20,42,74,Fail
+648,Anjali,Female,25,Mechanical,Final,99,15,49,64,Pass
+649,Shubham,Female,17,Civil,TY,98,11,45,35,Pass
+650,Shubham,Male,20,Mechanical,TY,64,10,45,38,Fail
+651,Amit,Male,25,IT,SY,97,21,46,89,Fail
+652,Pooja,Male,25,Electrical,TY,100,26,40,37,Pass
+653,Prajakta,Male,23,Civil,SY,60,9,49,36,Fail
+654,Shubham,Male,23,IT,Final,100,25,38,72,Fail
+655,Prajakta,Male,25,IT,SY,77,19,30,93,Fail
+656,Rahul,Female,18,Computer Science,FY,95,26,46,90,Fail
+657,Amit,Female,22,Computer Science,FY,60,34,37,65,Pass
+658,Akash,Female,23,Civil,Final,94,24,45,60,Pass
+659,Akash,Female,21,Mechanical,Final,80,23,36,50,Pass
+660,Sanket,Male,20,Data Science,SY,77,16,31,56,Fail
+661,Anjali,Male,24,Civil,TY,74,12,50,36,Pass
+662,Priya,Male,19,Computer Science,Final,72,26,46,63,Pass
+663,Prajakta,Female,22,Civil,TY,74,37,49,38,Fail
+664,Vishal,Male,22,Civil,SY,66,5,42,39,Pass
+665,Pooja,Female,25,Civil,Final,91,35,36,45,Pass
+666,Tejas,Male,20,Data Science,Final,65,27,36,81,Pass
+667,Amit,Female,24,Data Science,TY,81,7,45,91,Fail
+668,Sonal,Male,23,Computer Science,TY,61,40,36,79,Fail
+669,Pooja,Female,17,Data Science,Final,72,16,39,41,Fail
+670,Priya,Female,18,Civil,TY,63,5,31,94,Pass
+671,Sonal,Male,23,Mechanical,TY,87,16,35,93,Pass
+672,Neha,Female,21,Computer Science,TY,67,37,33,76,Fail
+673,Kunal,Female,24,Data Science,FY,80,16,50,67,Pass
+674,Sanket,Male,17,Mechanical,FY,71,37,46,48,Fail
+675,Akash,Male,25,Computer Science,TY,70,39,38,71,Fail
+676,Akash,Female,19,Electrical,TY,97,17,47,63,Fail
+677,Sonal,Male,17,Computer Science,FY,74,37,32,76,Fail
+678,Shubham,Male,23,IT,TY,89,30,40,100,Pass
+679,Sonal,Female,20,Data Science,SY,70,34,37,86,Pass
+680,Vishal,Male,25,Mechanical,SY,63,8,33,51,Pass
+681,Nikhil,Female,17,Civil,FY,95,10,41,96,Fail
+682,Priya,Male,23,Computer Science,Final,77,9,32,82,Pass
+683,Sanket,Female,20,IT,TY,73,34,37,58,Fail
+684,Akash,Female,21,Civil,TY,94,16,36,75,Fail
+685,Nikhil,Male,20,IT,SY,77,5,31,70,Fail
+686,Rahul,Male,25,Electrical,Final,91,33,42,35,Fail
+687,Rohit,Female,23,Electrical,FY,76,30,33,48,Fail
+688,Nikhil,Male,25,Electrical,Final,67,39,48,64,Fail
+689,Sneha,Female,19,Data Science,FY,61,11,41,73,Pass
+690,Prajakta,Male,18,IT,Final,94,16,50,36,Fail
+691,Vishal,Female,21,Mechanical,TY,86,28,46,68,Pass
+692,Mayur,Male,18,Electrical,Final,76,20,33,77,Fail
+693,Nikhil,Male,21,Electrical,Final,82,25,34,52,Fail
+694,Rahul,Female,25,Computer Science,FY,100,11,39,57,Fail
+695,Sneha,Female,17,Mechanical,FY,79,14,36,66,Fail
+696,Priya,Female,25,Civil,FY,68,27,30,90,Fail
+697,Shubham,Male,22,Electrical,TY,73,7,49,89,Pass
+698,Sneha,Male,22,Mechanical,FY,85,20,41,82,Pass
+699,Rohit,Female,17,Electrical,SY,64,19,38,43,Fail
+700,Prajakta,Male,19,Electrical,SY,67,36,50,67,Pass
+701,Rohit,Female,22,Electrical,SY,90,16,42,68,Fail
+702,Nikhil,Female,18,IT,FY,83,15,31,81,Fail
+703,Neha,Male,19,Computer Science,SY,66,18,37,89,Fail
+704,Pooja,Female,25,Data Science,SY,95,40,38,75,Pass
+705,Riya,Male,24,IT,SY,82,20,48,72,Fail
+706,Neha,Female,18,Mechanical,SY,86,8,36,88,Fail
+707,Priya,Male,23,Computer Science,SY,85,9,39,53,Pass
+708,Vishal,Female,18,IT,Final,99,33,49,96,Pass
+709,Prajakta,Female,17,Civil,TY,69,20,41,76,Fail
+710,Anjali,Male,23,Computer Science,FY,76,7,45,64,Fail
+711,Sonal,Female,23,Mechanical,FY,97,33,36,69,Pass
+712,Priya,Female,17,Mechanical,FY,64,10,44,57,Pass
+713,Neha,Female,25,Data Science,FY,65,26,38,44,Fail
+714,Amit,Male,25,Mechanical,FY,62,33,35,94,Fail
+715,Riya,Male,25,Electrical,FY,67,13,42,43,Fail
+716,Shubham,Female,25,Mechanical,TY,98,33,31,97,Pass
+717,Komal,Male,17,Data Science,FY,82,35,41,46,Pass
+718,Riya,Male,18,Mechanical,TY,94,37,34,74,Pass
+719,Akash,Female,20,Civil,SY,86,10,36,75,Pass
+720,Sneha,Male,21,IT,TY,61,31,44,41,Pass
+721,Pooja,Male,20,IT,Final,99,39,48,37,Pass
+722,Tejas,Male,21,Civil,FY,66,29,45,62,Fail
+723,Sonal,Female,24,Computer Science,FY,71,16,42,36,Fail
+724,Amit,Male,19,Data Science,TY,67,6,48,74,Fail
+725,Prajakta,Female,21,Mechanical,SY,83,16,50,35,Pass
+726,Kunal,Male,25,Electrical,FY,89,6,34,66,Fail
+727,Amit,Female,25,Mechanical,SY,86,19,46,86,Fail
+728,Priya,Male,19,IT,FY,99,30,46,89,Fail
+729,Sanket,Female,19,Civil,Final,68,26,37,52,Pass
+730,Amit,Male,21,Computer Science,FY,77,7,50,38,Pass
+731,Anjali,Male,19,Electrical,TY,86,9,36,94,Fail
+732,Anjali,Female,24,Computer Science,SY,95,9,43,51,Fail
+733,Pooja,Female,18,Electrical,Final,68,12,45,62,Pass
+734,Kunal,Female,22,Electrical,TY,88,8,43,56,Fail
+735,Rahul,Female,22,IT,Final,66,37,36,65,Fail
+736,Kunal,Male,18,IT,FY,69,22,31,73,Fail
+737,Komal,Male,23,Electrical,SY,60,18,43,97,Fail
+738,Rohit,Female,24,Electrical,FY,78,38,35,61,Pass
+739,Sneha,Male,20,Computer Science,SY,74,15,45,98,Fail
+740,Sonal,Male,22,Computer Science,TY,98,8,49,53,Pass
+741,Kunal,Male,25,Computer Science,TY,62,36,36,48,Fail
+742,Priya,Male,19,IT,Final,80,8,44,50,Fail
+743,Sanket,Male,25,IT,FY,83,15,33,67,Pass
+744,Mayur,Male,18,Data Science,Final,64,32,39,51,Pass
+745,Rohit,Female,17,Data Science,FY,74,12,41,56,Pass
+746,Kunal,Female,21,Mechanical,SY,71,9,47,58,Fail
+747,Neha,Male,25,Mechanical,SY,73,24,33,80,Fail
+748,Tejas,Female,20,Electrical,TY,61,15,37,79,Pass
+749,Anjali,Female,18,Computer Science,SY,79,28,34,41,Fail
+750,Nikhil,Male,24,IT,TY,99,33,33,63,Pass
+751,Rohit,Female,20,Computer Science,TY,93,34,36,62,Fail
+752,Komal,Female,20,Electrical,FY,93,26,35,37,Pass
+753,Nikhil,Female,18,Mechanical,SY,78,20,42,70,Pass
+754,Rahul,Female,17,Civil,FY,75,12,42,75,Fail
+755,Vishal,Male,17,Civil,FY,67,35,43,92,Pass
+756,Anjali,Male,22,Civil,Final,78,35,48,35,Fail
+757,Vishal,Female,23,Mechanical,SY,64,9,35,67,Fail
+758,Riya,Female,22,Computer Science,FY,84,39,39,63,Pass
+759,Vishal,Male,20,Data Science,Final,100,17,38,84,Pass
+760,Prajakta,Female,18,Civil,TY,82,34,44,69,Pass
+761,Sonal,Female,23,Mechanical,FY,61,15,40,85,Pass
+762,Sanket,Female,25,Data Science,SY,91,38,33,89,Fail
+763,Akash,Female,23,IT,TY,85,8,31,88,Fail
+764,Kunal,Male,20,Mechanical,Final,94,17,46,36,Fail
+765,Komal,Male,22,Mechanical,SY,77,22,41,75,Fail
+766,Neha,Female,24,Civil,TY,62,11,36,76,Fail
+767,Rahul,Male,23,Computer Science,SY,85,25,32,45,Pass
+768,Vishal,Female,24,Data Science,SY,76,20,44,41,Pass
+769,Shubham,Female,21,IT,TY,90,38,34,70,Pass
+770,Sonal,Male,19,Data Science,FY,81,20,43,81,Fail
+771,Riya,Male,19,Computer Science,Final,96,5,47,62,Pass
+772,Sonal,Female,23,Computer Science,FY,89,25,49,45,Fail
+773,Sneha,Male,18,Mechanical,Final,73,40,32,53,Fail
+774,Akash,Female,20,Data Science,FY,66,33,41,59,Fail
+775,Sneha,Male,21,Computer Science,Final,99,15,34,84,Pass
+776,Priya,Male,20,Mechanical,SY,66,15,32,45,Pass
+777,Nikhil,Male,25,Computer Science,FY,76,21,30,42,Fail
+778,Akash,Female,24,Computer Science,SY,69,39,48,56,Fail
+779,Prajakta,Female,18,IT,FY,96,11,44,88,Fail
+780,Priya,Female,20,Computer Science,Final,77,23,39,57,Pass
+781,Prajakta,Male,24,IT,FY,66,40,46,71,Pass
+782,Akash,Female,24,IT,SY,67,36,40,74,Pass
+783,Akash,Male,23,Computer Science,TY,82,36,31,88,Pass
+784,Amit,Male,24,IT,Final,74,20,47,94,Fail
+785,Neha,Female,25,Electrical,TY,82,26,39,64,Pass
+786,Mayur,Male,17,Civil,TY,65,26,39,99,Fail
+787,Komal,Male,22,Civil,SY,96,31,31,66,Fail
+788,Kunal,Female,23,Mechanical,TY,92,26,37,70,Pass
+789,Shubham,Female,17,Data Science,SY,95,7,45,42,Pass
+790,Priya,Male,17,IT,SY,70,33,49,65,Pass
+791,Nikhil,Male,25,Electrical,FY,73,36,47,57,Pass
+792,Pooja,Male,19,Data Science,FY,80,26,42,56,Pass
+793,Akash,Male,23,Electrical,Final,82,18,39,84,Fail
+794,Sanket,Female,21,IT,TY,98,15,37,71,Fail
+795,Sonal,Male,25,Data Science,SY,95,20,40,83,Fail
+796,Sneha,Female,24,Computer Science,FY,100,9,40,49,Pass
+797,Vishal,Female,24,Electrical,FY,95,33,34,71,Pass
+798,Mayur,Female,23,Data Science,SY,65,29,31,60,Fail
+799,Mayur,Male,20,Mechanical,TY,98,26,39,66,Pass
+800,Sanket,Male,18,Data Science,SY,81,7,48,85,Pass
+801,Nikhil,Female,23,Mechanical,SY,88,7,31,51,Fail
+802,Prajakta,Male,24,Computer Science,Final,82,33,41,66,Pass
+803,Riya,Female,17,Data Science,TY,67,10,44,47,Fail
+804,Nikhil,Male,21,Data Science,SY,91,17,45,96,Fail
+805,Tejas,Male,24,Electrical,TY,87,36,31,64,Fail
+806,Vishal,Female,24,Electrical,FY,79,31,47,70,Pass
+807,Sanket,Male,25,IT,FY,98,20,38,65,Pass
+808,Neha,Male,20,IT,FY,84,30,45,78,Pass
+809,Neha,Male,20,Civil,SY,82,18,46,48,Pass
+810,Sonal,Female,23,Computer Science,SY,66,38,45,75,Fail
+811,Komal,Female,25,Civil,TY,60,22,32,96,Pass
+812,Vishal,Male,25,Computer Science,FY,83,20,35,84,Fail
+813,Pooja,Female,23,Civil,SY,97,29,30,83,Fail
+814,Rahul,Male,17,Civil,Final,64,37,30,93,Pass
+815,Akash,Male,23,Electrical,FY,86,25,38,40,Pass
+816,Rahul,Female,19,IT,FY,83,25,47,76,Pass
+817,Akash,Female,24,IT,SY,73,23,42,55,Pass
+818,Sneha,Female,20,Computer Science,TY,68,34,32,58,Fail
+819,Sanket,Female,18,Electrical,FY,100,15,41,46,Pass
+820,Riya,Female,19,Mechanical,TY,76,25,40,49,Pass
+821,Sanket,Female,22,Electrical,FY,70,8,32,79,Fail
+822,Kunal,Female,23,Civil,SY,73,13,37,47,Pass
+823,Anjali,Female,18,Mechanical,TY,86,36,39,45,Fail
+824,Sonal,Male,22,Civil,TY,75,31,32,94,Pass
+825,Vishal,Male,25,Civil,SY,62,31,47,36,Pass
+826,Mayur,Female,19,Mechanical,FY,83,33,45,62,Fail
+827,Vishal,Male,18,Electrical,FY,92,34,44,96,Fail
+828,Anjali,Male,23,Data Science,Final,86,10,30,93,Pass
+829,Priya,Male,24,Computer Science,SY,61,32,39,100,Fail
+830,Kunal,Female,22,Mechanical,SY,90,23,37,76,Fail
+831,Tejas,Male,25,Computer Science,FY,93,15,31,82,Pass
+832,Kunal,Male,19,Computer Science,FY,97,34,45,36,Pass
+833,Kunal,Male,23,Data Science,SY,98,13,44,71,Pass
+834,Prajakta,Female,17,IT,TY,79,13,38,76,Pass
+835,Kunal,Female,20,Mechanical,FY,90,23,31,61,Pass
+836,Tejas,Female,20,IT,FY,85,14,36,88,Fail
+837,Akash,Male,19,Civil,Final,87,38,30,79,Fail
+838,Anjali,Male,24,Electrical,Final,83,37,37,81,Pass
+839,Nikhil,Male,22,Electrical,TY,75,8,39,75,Pass
+840,Tejas,Female,24,Electrical,Final,72,10,32,46,Fail
+841,Shubham,Female,20,Data Science,Final,62,21,47,98,Fail
+842,Neha,Female,19,Data Science,TY,74,40,50,36,Fail
+843,Mayur,Male,23,Mechanical,FY,77,11,46,57,Fail
+844,Prajakta,Male,24,Computer Science,Final,68,37,34,47,Pass
+845,Sneha,Male,25,Data Science,TY,70,22,49,71,Fail
+846,Komal,Female,17,IT,FY,92,18,41,40,Pass
+847,Neha,Male,20,Electrical,Final,96,11,33,47,Pass
+848,Pooja,Female,23,IT,FY,96,28,43,92,Fail
+849,Komal,Male,25,IT,TY,89,11,40,72,Fail
+850,Prajakta,Male,17,Mechanical,FY,94,11,34,79,Pass
+851,Sonal,Male,25,IT,SY,98,9,43,100,Pass
+852,Vishal,Female,21,Data Science,FY,97,37,32,83,Fail
+853,Shubham,Male,23,Mechanical,Final,93,29,42,76,Fail
+854,Prajakta,Female,22,Data Science,TY,100,13,39,80,Fail
+855,Priya,Male,21,Electrical,FY,84,36,46,65,Pass
+856,Vishal,Male,24,IT,FY,81,24,46,68,Pass
+857,Akash,Male,21,IT,SY,85,32,43,76,Fail
+858,Priya,Female,21,Computer Science,Final,60,31,36,38,Pass
+859,Nikhil,Female,18,IT,SY,69,23,36,96,Pass
+860,Priya,Male,21,Computer Science,FY,84,23,36,78,Fail
+861,Tejas,Male,22,Computer Science,Final,69,16,37,55,Fail
+862,Komal,Female,19,Electrical,Final,74,24,42,65,Fail
+863,Mayur,Male,20,Electrical,SY,60,25,40,94,Fail
+864,Rohit,Female,25,Electrical,TY,74,38,50,68,Fail
+865,Sneha,Female,22,Data Science,Final,79,18,43,73,Pass
+866,Prajakta,Male,20,Mechanical,FY,98,14,30,83,Pass
+867,Sanket,Male,20,IT,FY,86,21,50,55,Fail
+868,Pooja,Male,21,Electrical,TY,73,34,30,86,Pass
+869,Sanket,Male,22,Data Science,FY,97,37,46,42,Fail
+870,Kunal,Female,23,Electrical,Final,82,26,40,75,Pass
+871,Akash,Female,19,IT,FY,72,17,45,57,Fail
+872,Rohit,Female,19,IT,FY,67,24,41,67,Pass
+873,Anjali,Female,25,Computer Science,SY,72,8,48,75,Fail
+874,Anjali,Male,20,IT,SY,86,13,32,52,Fail
+875,Sanket,Female,19,Civil,TY,65,27,35,39,Pass
+876,Prajakta,Male,18,Data Science,SY,62,27,33,47,Fail
+877,Priya,Female,18,IT,Final,92,11,43,69,Fail
+878,Amit,Female,21,Civil,Final,68,14,48,100,Pass
+879,Anjali,Female,24,Civil,FY,63,34,40,65,Fail
+880,Shubham,Female,22,Electrical,TY,80,39,40,76,Fail
+881,Sneha,Female,24,IT,FY,64,38,32,100,Pass
+882,Amit,Male,18,Computer Science,FY,79,16,32,75,Pass
+883,Anjali,Male,23,Computer Science,FY,66,36,35,84,Pass
+884,Sanket,Male,20,IT,TY,62,16,38,54,Pass
+885,Tejas,Male,21,IT,SY,97,16,31,47,Fail
+886,Nikhil,Male,17,Electrical,SY,91,37,32,75,Fail
+887,Anjali,Male,18,Data Science,TY,94,9,44,70,Pass
+888,Sneha,Female,23,Mechanical,TY,82,22,33,65,Pass
+889,Nikhil,Female,24,Electrical,TY,72,36,46,100,Fail
+890,Kunal,Male,21,Data Science,FY,60,39,45,77,Fail
+891,Riya,Female,20,Data Science,Final,71,34,50,99,Fail
+892,Riya,Female,25,Computer Science,Final,83,19,31,90,Pass
+893,Sanket,Male,25,Electrical,FY,86,22,37,55,Fail
+894,Nikhil,Female,25,Civil,FY,78,32,36,68,Pass
+895,Pooja,Female,21,Computer Science,Final,81,10,44,61,Fail
+896,Mayur,Female,24,Computer Science,Final,73,39,45,91,Pass
+897,Komal,Male,21,Mechanical,TY,97,9,37,57,Pass
+898,Amit,Male,25,Computer Science,SY,97,23,43,62,Fail
+899,Shubham,Male,19,Civil,Final,88,34,36,56,Fail
+900,Priya,Male,24,Civil,Final,60,10,30,37,Fail
+901,Rahul,Female,20,Electrical,FY,66,21,48,72,Fail
+902,Rohit,Female,20,Data Science,SY,62,13,39,73,Pass
+903,Komal,Male,20,Computer Science,FY,70,16,47,40,Pass
+904,Riya,Male,23,Mechanical,Final,94,37,45,63,Fail
+905,Rahul,Female,21,Data Science,Final,72,34,39,93,Pass
+906,Komal,Female,18,Data Science,TY,77,17,48,60,Fail
+907,Rohit,Male,25,Electrical,FY,91,5,31,79,Fail
+908,Shubham,Male,21,Mechanical,Final,97,33,31,69,Fail
+909,Shubham,Male,23,Electrical,SY,63,21,48,63,Fail
+910,Sonal,Female,24,Data Science,SY,88,6,30,49,Fail
+911,Pooja,Female,25,Computer Science,Final,95,27,31,36,Pass
+912,Riya,Female,19,Computer Science,Final,79,5,42,41,Fail
+913,Pooja,Female,18,Data Science,SY,60,7,48,85,Fail
+914,Shubham,Female,21,Mechanical,TY,98,28,47,80,Pass
+915,Amit,Male,23,IT,TY,86,33,35,89,Fail
+916,Pooja,Female,19,Civil,Final,95,20,35,37,Fail
+917,Pooja,Male,24,Data Science,SY,60,23,47,99,Fail
+918,Prajakta,Male,18,Mechanical,FY,76,6,32,49,Fail
+919,Anjali,Female,20,IT,TY,60,29,45,91,Fail
+920,Vishal,Female,21,Civil,TY,68,27,50,72,Pass
+921,Shubham,Female,17,Electrical,Final,99,18,43,90,Pass
+922,Komal,Female,19,Mechanical,SY,82,22,36,83,Fail
+923,Riya,Female,17,Electrical,TY,81,24,30,89,Fail
+924,Neha,Male,19,Electrical,FY,70,27,39,88,Pass
+925,Sneha,Male,25,Mechanical,SY,76,19,48,95,Pass
+926,Priya,Male,18,Electrical,SY,91,13,44,35,Fail
+927,Pooja,Female,19,Civil,Final,60,13,36,36,Fail
+928,Rahul,Female,25,IT,FY,100,23,35,45,Fail
+929,Priya,Female,23,Civil,TY,66,5,50,89,Fail
+930,Nikhil,Male,23,Electrical,FY,90,31,44,45,Pass
+931,Vishal,Female,20,IT,Final,94,33,33,52,Pass
+932,Vishal,Male,25,Mechanical,TY,81,34,41,60,Fail
+933,Sneha,Female,20,Data Science,SY,76,39,40,70,Pass
+934,Sonal,Male,25,Mechanical,TY,81,38,32,80,Fail
+935,Priya,Male,21,IT,TY,62,5,49,80,Pass
+936,Komal,Female,18,Electrical,SY,61,6,43,39,Pass
+937,Rahul,Male,21,Civil,Final,75,25,47,82,Fail
+938,Kunal,Male,25,Electrical,FY,78,8,31,60,Fail
+939,Rohit,Female,23,Computer Science,SY,85,27,43,85,Pass
+940,Kunal,Male,24,Civil,SY,96,9,31,91,Fail
+941,Priya,Male,19,Mechanical,FY,67,8,42,84,Pass
+942,Amit,Female,18,Mechanical,TY,91,7,38,36,Fail
+943,Sonal,Male,17,Electrical,SY,82,33,50,58,Pass
+944,Pooja,Female,24,Electrical,TY,81,34,32,87,Pass
+945,Pooja,Male,18,IT,TY,61,16,45,98,Pass
+946,Mayur,Male,19,Computer Science,SY,61,29,33,54,Pass
+947,Sonal,Male,25,IT,TY,65,13,49,51,Fail
+948,Tejas,Female,24,Civil,TY,68,27,44,67,Pass
+949,Nikhil,Female,18,Computer Science,Final,74,18,39,97,Fail
+950,Sneha,Female,24,Electrical,FY,88,14,43,51,Fail
+951,Anjali,Male,22,Electrical,SY,60,27,33,38,Pass
+952,Rohit,Female,22,Electrical,TY,92,14,48,44,Fail
+953,Sonal,Male,17,Civil,SY,84,20,39,98,Fail
+954,Shubham,Male,24,IT,FY,63,34,45,63,Fail
+955,Mayur,Female,17,Mechanical,Final,79,17,33,53,Fail
+956,Priya,Female,21,Electrical,TY,94,13,44,74,Fail
+957,Anjali,Male,21,IT,Final,88,14,38,62,Pass
+958,Anjali,Female,24,Mechanical,TY,77,40,45,41,Fail
+959,Akash,Female,20,Computer Science,SY,100,23,42,42,Fail
+960,Rohit,Male,25,IT,FY,78,32,39,69,Pass
+961,Komal,Male,21,IT,TY,96,19,33,79,Pass
+962,Sanket,Female,25,Civil,FY,69,22,43,70,Fail
+963,Neha,Male,25,Computer Science,FY,84,25,35,54,Pass
+964,Komal,Female,20,Electrical,Final,62,15,36,78,Fail
+965,Sanket,Male,19,Mechanical,TY,87,18,38,100,Pass
+966,Kunal,Female,22,Electrical,SY,71,34,38,59,Fail
+967,Mayur,Female,22,Data Science,Final,63,7,39,58,Pass
+968,Prajakta,Female,23,Computer Science,SY,83,27,36,52,Pass
+969,Pooja,Male,21,Electrical,FY,86,20,49,51,Pass
+970,Sneha,Female,18,Civil,FY,75,23,38,62,Fail
+971,Akash,Female,17,IT,Final,67,14,36,97,Fail
+972,Akash,Female,18,Mechanical,Final,62,37,30,76,Fail
+973,Akash,Male,25,Civil,FY,90,30,50,55,Fail
+974,Tejas,Female,19,Computer Science,TY,71,33,46,60,Fail
+975,Komal,Female,22,Computer Science,TY,72,27,48,60,Pass
+976,Prajakta,Female,23,Computer Science,Final,97,23,32,38,Pass
+977,Akash,Female,20,Mechanical,SY,66,12,45,71,Fail
+978,Mayur,Female,19,Computer Science,Final,92,9,41,62,Pass
+979,Sanket,Female,20,Electrical,SY,83,30,45,79,Pass
+980,Tejas,Female,19,Civil,TY,99,23,42,78,Fail
+981,Tejas,Male,18,IT,FY,80,26,40,61,Pass
+982,Sanket,Female,22,Computer Science,SY,72,33,44,88,Fail
+983,Kunal,Female,23,Mechanical,FY,67,7,31,99,Fail
+984,Neha,Male,24,Data Science,FY,93,8,41,85,Fail
+985,Rohit,Male,25,Mechanical,FY,84,24,41,90,Fail
+986,Mayur,Female,21,Electrical,SY,64,30,30,46,Fail
+987,Mayur,Female,21,Electrical,FY,82,25,48,100,Fail
+988,Riya,Male,23,IT,Final,64,33,33,49,Fail
+989,Vishal,Male,23,Civil,SY,71,10,38,62,Pass
+990,Priya,Female,18,Computer Science,TY,68,13,45,91,Pass
+991,Shubham,Male,25,IT,Final,92,22,43,50,Fail
+992,Sonal,Male,23,Civil,FY,98,17,38,76,Pass
+993,Tejas,Female,25,Computer Science,FY,92,23,30,100,Fail
+994,Prajakta,Male,23,Electrical,Final,72,22,35,99,Fail
+995,Komal,Female,21,Computer Science,SY,95,29,49,74,Fail
+996,Neha,Male,18,Electrical,SY,68,38,39,46,Fail
+997,Sneha,Male,24,Electrical,FY,81,26,38,78,Fail
+998,Mayur,Male,24,IT,TY,62,7,48,79,Fail
+999,Anjali,Female,18,Computer Science,FY,91,32,44,46,Pass
+1000,Mayur,Female,19,IT,TY,62,29,46,99,Pass
